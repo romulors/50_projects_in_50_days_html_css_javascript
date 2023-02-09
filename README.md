@@ -1,6 +1,6 @@
 # 50 Projetos em 50 dias
 
-Em cada dia, é codificado (pelo menos) um mini projeto para aperfeiçoar as técnicas de html, css e javascript.
+Em cada dia, é codificado (pelo menos) um mini projeto para aperfeiçoar as técnicas de html, css e javascript, para um total de 50 projetos realizados.
 
 A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css nos elementos html, utilizando o javascript para criar ou alterar o contexto.
 
