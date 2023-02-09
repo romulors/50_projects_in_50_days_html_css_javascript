@@ -1,6 +1,7 @@
 # 50 Projetos em 50 dias
 
 Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
+
 Referência do código: https://github.com/bradtraversy/50projects50days
 
 * Dia 01 - Expanding Cards - Alguns cartões preenchem a tela, um por vez, enquanto é mostrado o conjunto.
