@@ -9,5 +9,6 @@ A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css 
 * Dia 03 - Rotating Navigation - Menu de navegação que aparece ao girar o conteudo da página.
 * Dia 04 - Hidden Search Widget - Um botão de lupa que ativa uma caixa de pesquisa.
 * Dia 05 - Blurry Loading - Indica que uma página carrega disfocando a imagem de fundo.
+* Dia 06 - Scroll Animation - Cards vão aparecendo com animação ao rodar a página.
 
 Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
