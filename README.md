@@ -10,5 +10,9 @@ A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css 
 * Dia 04 - Hidden Search Widget - Um botão de lupa que ativa uma caixa de pesquisa.
 * Dia 05 - Blurry Loading - Indica que uma página carrega disfocando a imagem de fundo.
 * Dia 06 - Scroll Animation - Cards vão aparecendo com animação ao rodar a página.
+* Dia 07 - Split Landing Page - Cria uma pãgina responsiva, dividida ao meio.
+* Dia 08 - Form Wave Animation - Labels do formulário terão um efeito de transição de onda.
+* Dia 09 - Sound Board - Cria uma coletânea de botões que ativarão músicas
+* Dia 10 - Dad Jokes - Consome uma API em  busca de piadas sem graça na internet para mostrá-las.
 
 Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
