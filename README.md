@@ -18,6 +18,6 @@ A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css 
 
 * Dia 11 - Event KeyCodes - Mostra qual tecla foi ativada e seus respectivos códigos.
 * Dia 12 - FAQ Collapse - Cria um sistema de FAQ baseado em troca de classes.
-* Dia 13 - Random Choise Picker - Selecionador aleatório de itens inseridos em uma listagem.
+* Dia 13 - Random Choice Picker - Selecionador aleatório de itens inseridos em uma listagem.
 
 Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
