@@ -17,7 +17,7 @@ A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css 
 \
 * Dia 11 - Event KeyCodes - Mostra qual tecla foi ativada e seus respectivos códigos.
 * Dia 12 - FAQ Collapse - Cria um sistema de FAQ baseado em troca de classes.
-* Dia 13 - Random Choise Picker - Selecionador aleatório de itens inseridos em uma listagem.
+* Dia 13 - Random Choice Picker - Selecionador aleatório de itens inseridos em uma listagem.
 * Dia 14 - Animated Navigation - Cria uma animação ao ativar e desativar o menu de navegação.
 * Dia 15 - Incremental Counter - Um contador aumenta rapidamente até o valor alvo.
 
