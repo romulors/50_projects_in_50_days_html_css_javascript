@@ -15,7 +15,9 @@ A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css 
 * Dia 09 - Sound Board - Cria uma coletânea de botões que ativarão músicas
 * Dia 10 - Dad Jokes - Consome uma API em  busca de piadas sem graça na internet para mostrá-las.
 
+
 * Dia 11 - Event KeyCodes - Mostra qual tecla foi ativada e seus respectivos códigos.
 * Dia 12 - FAQ Collapse - Cria um sistema de FAQ baseado em troca de classes.
+* Dia 13 - Random Choise Picker - Selecionador aleatório de itens inseridos em uma listagem.
 
 Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
