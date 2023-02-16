@@ -14,12 +14,15 @@ A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css 
 * Dia 08 - Form Wave Animation - Labels do formulário terão um efeito de transição de onda.
 * Dia 09 - Sound Board - Cria uma coletânea de botões que ativarão músicas
 * Dia 10 - Dad Jokes - Consome uma API em  busca de piadas sem graça na internet para mostrá-las.
-\
+
+
 * Dia 11 - Event KeyCodes - Mostra qual tecla foi ativada e seus respectivos códigos.
 * Dia 12 - FAQ Collapse - Cria um sistema de FAQ baseado em troca de classes.
 * Dia 13 - Random Choice Picker - Selecionador aleatório de itens inseridos em uma listagem.
 * Dia 14 - Animated Navigation - Cria uma animação ao ativar e desativar o menu de navegação.
 * Dia 15 - Incremental Counter - Um contador aumenta rapidamente até o valor alvo.
 * Dia 16 - Drink Water - Mini rastreador de quantia de agua ingerida no dia.
+* Dia 17 - Movie App - Aplicativo que mostra filmes, notas, e permite pesquisa.
+
 
 Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
