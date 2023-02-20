@@ -4,7 +4,8 @@ Em cada dia, é codificado (pelo menos) um mini projeto para aperfeiçoar as té
 
 A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css nos elementos html, utilizando o javascript para criar ou alterar o contexto.
 
-* Dia 01 - Expanding Cards - Alguns cartões preenchem a tela, um por vez, enquanto é mostrado o conjunto.
+## Projetos 01 a 10
+* Dia 01 - Expanding Cards - Um cartão preenchem a tela, enquanto é mostrado o conjunto de cartões.
 * Dia 02 - Progress Steps - É criado um widget que mostra o quantos passos de um processo ocorreram.
 * Dia 03 - Rotating Navigation - Menu de navegação que aparece ao girar o conteudo da página.
 * Dia 04 - Hidden Search Widget - Um botão de lupa que ativa uma caixa de pesquisa.
@@ -15,6 +16,7 @@ A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css 
 * Dia 09 - Sound Board - Cria uma coletânea de botões que ativarão músicas
 * Dia 10 - Dad Jokes - Consome uma API em  busca de piadas sem graça na internet para mostrá-las.
 
+## Projetos 11 a 20
 * Dia 11 - Event KeyCodes - Mostra qual tecla foi ativada e seus respectivos códigos.
 * Dia 12 - FAQ Collapse - Cria um sistema de FAQ baseado em troca de classes.
 * Dia 13 - Random Choice Picker - Selecionador aleatório de itens inseridos em uma listagem.
@@ -24,5 +26,11 @@ A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css 
 * Dia 17 - Movie App - Aplicativo que mostra filmes, notas, e permite pesquisa.
 * Dia 18 - Background Slider - Cria um slider de imagens que também altera o a imagem de fundo.
 * Dia 19 - Theme Clock - Apresenta um relógio analógico funcional.
+* Dia 20 - Button Ripple Effect - Cria uma animação de ondas ao clicar no botão.
+
+## Projetos 21 a 30
+* Dia 21 - Drag N Drop - Utiliza animações para um arrastar e soltar visual.
+* Dia 22 - Drawing App - Mini aplicativo de desenho na tela.
+* Dia 23 - Kinetic Loader - Animação para tocar enquanto carrega algo.
 
 Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
