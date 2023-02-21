@@ -32,5 +32,9 @@ A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css 
 * Dia 21 - Drag N Drop - Utiliza animações para um arrastar e soltar visual.
 * Dia 22 - Drawing App - Mini aplicativo de desenho na tela.
 * Dia 23 - Kinetic Loader - Animação para tocar enquanto carrega algo.
+* Dia 24 - Content Placeholder - Um card que toca uma animação enquanto carrega os dados.
+* Dia 25 - Sticky Navbar - Uma barra de navegação que sempre permanece no topo da página.
+* Dia 26 - Double Vertical Slider - Imagem e descrição deslizam na vertical ao apertar um botão.
+* Dia 27 - Toast Notification - Cria uma notificação que aparece na tela por um curto tempo.
 
 Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
