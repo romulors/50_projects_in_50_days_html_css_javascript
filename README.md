@@ -36,5 +36,6 @@ A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css 
 * Dia 25 - Sticky Navbar - Uma barra de navegação que sempre permanece no topo da página.
 * Dia 26 - Double Vertical Slider - Imagem e descrição deslizam na vertical ao apertar um botão.
 * Dia 27 - Toast Notification - Cria uma notificação que aparece na tela por um curto tempo.
+* dia 28 - Github Profiles - Pesquisa usuários no Github e seus repositórios.
 
 Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
