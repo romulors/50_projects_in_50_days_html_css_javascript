@@ -2,7 +2,7 @@
 
 Em cada dia, é codificado (pelo menos) um mini projeto para aperfeiçoar as técnicas de html, css e javascript, para um total de 50 projetos realizados.
 
-A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css nos elementos html, utilizando o javascript para criar ou alterar o contexto.
+O objetivo é criar familiaridade com as tecnologias relacionadas. A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css nos elementos html, utilizando o javascript para editar o contexto.
 
 ## Projetos 01 a 10
 * Dia 01 - Expanding Cards - Um cartão preenchem a tela, enquanto é mostrado o conjunto de cartões.
@@ -36,6 +36,11 @@ A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css 
 * Dia 25 - Sticky Navbar - Uma barra de navegação que sempre permanece no topo da página.
 * Dia 26 - Double Vertical Slider - Imagem e descrição deslizam na vertical ao apertar um botão.
 * Dia 27 - Toast Notification - Cria uma notificação que aparece na tela por um curto tempo.
-* dia 28 - Github Profiles - Pesquisa usuários no Github e seus repositórios.
+* Dia 28 - Github Profiles - Pesquisa usuários no Github e seus repositórios.
+* Dia 29 - Double Click Heart - Duplo clique na imagem gera um coração.
+* Dia 30 - Auto Text Effect - Um texto aparenta ser digitado ao vivo.
 
-Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
+## Projetos 31 a 40
+* Dia 31 - Password Generator - Um gerador de senhas.
+
+### Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
