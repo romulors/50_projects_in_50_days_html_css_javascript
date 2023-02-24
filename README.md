@@ -42,5 +42,6 @@ O objetivo é criar familiaridade com as tecnologias relacionadas. A maioria dos
 
 ## Projetos 31 a 40
 * Dia 31 - Password Generator - Um gerador de senhas.
+* Dia 32 - Good Cheap Fast - Seleciona até duas checkboxes ao mesmo tempo.
 
 ### Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
