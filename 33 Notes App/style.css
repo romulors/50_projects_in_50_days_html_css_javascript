@@ -58,3 +58,15 @@ body {
     width: 100%;
     padding: 20px;
 }
+
+.main {
+    padding-left: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+.editing {
+    color: #408294;
+}
