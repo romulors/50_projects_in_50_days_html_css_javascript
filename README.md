@@ -45,5 +45,6 @@ O objetivo é criar familiaridade com as tecnologias relacionadas. A maioria dos
 * Dia 32 - Good Cheap Fast - Seleciona até duas checkboxes ao mesmo tempo.
 * Dia 33 - Notes App - Crie e edite notas na tela.
 * Dia 34 - Animated Countdown - Contador regressivo animado.
+* Dia 35 - Image Carousel - Visualização de imagens em ciclo.
 
 ### Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
