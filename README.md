@@ -46,5 +46,7 @@ O objetivo é criar familiaridade com as tecnologias relacionadas. A maioria dos
 * Dia 33 - Notes App - Crie e edite notas na tela.
 * Dia 34 - Animated Countdown - Contador regressivo animado.
 * Dia 35 - Image Carousel - Visualização de imagens em ciclo.
+* Dia 36 - Hoverboard - Quadrados se colorem ao passar o mouse encima.
+* Dia 37 - Pokedex - Um catálogo de Pokemons.
 
 ### Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
