@@ -48,5 +48,7 @@ O objetivo é criar familiaridade com as tecnologias relacionadas. A maioria dos
 * Dia 35 - Image Carousel - Visualização de imagens em ciclo.
 * Dia 36 - Hoverboard - Quadrados se colorem ao passar o mouse encima.
 * Dia 37 - Pokedex - Um catálogo de Pokemons.
+* Dia 38 - Mobile Tab Navigation - Um menu de navegação de Rodapé para celulares.
+* Dia 39 - Password Strenght Background - Imagem borrada fica clara se senha estiver forte.
 
 ### Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
