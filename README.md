@@ -50,5 +50,6 @@ O objetivo é criar familiaridade com as tecnologias relacionadas. A maioria dos
 * Dia 37 - Pokedex - Um catálogo de Pokemons.
 * Dia 38 - Mobile Tab Navigation - Um menu de navegação de Rodapé para celulares.
 * Dia 39 - Password Strenght Background - Imagem borrada fica clara a medida que digita a senha.
+* Dia 40 - 3D Background Boxes - Uma animação é espacialmente dividida em caixas 3D.
 
 ### Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/

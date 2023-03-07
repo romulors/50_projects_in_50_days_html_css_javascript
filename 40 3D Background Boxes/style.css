@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --boxWidth: 125px;
+    --boxHeight: 125px;
+    --boxBorderSize: 5px;
+
+    --boxesWidth: 500px;
+    --boxesHeight: 500px;
+    --boxesBigExtraBorder: 50px;
+}
+
+body {
+    background-color: #fafafa;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.magic {
+    background-color: #f9ca24;
+    color: #8d1d1d;
+    font-family: 'Poppins', sans-serif;
+    border: 0;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 12px 20px;
+    cursor: pointer;
+    position: fixed;
+    top: 20px;
+    letter-spacing: 1px;
+    box-shadow: 0 3px 3px rgba(249, 202, 36, 0.5);
+    z-index: 100;
+}
+
+.magic:focus {
+    outline: none;
+}
+
+.magic:active {
+    box-shadow: none;
+    transform: translateY(2px);
+}
+
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: var(--boxesHeight);
+    width: var(--boxesWidth);
+    position: relative;
+    margin-top: 50px;
+}
+
+.boxes.big {
+    width: calc(var(--boxesWidth) + var(--boxesBigExtraBorder));
+    height: calc(var(--boxesHeight) + var(--boxesBigExtraBorder));
+}
+
+.boxes.big .box {
+    transform: rotateZ(360deg);
+}
+
+.box {
+    background: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcwZDU2M2I1OGQ4OTA4NDFlMTI2NGYxZWVlZjYzNjAzMDUyZDVjOSZjdD1n/XIwkE6zWhSvXart8Hh/giphy.gif');
+    background-repeat: no-repeat;
+    background-size: var(--boxesWidth) var(--boxesHeight);
+    position: relative;
+    height: var(--boxHeight);
+    width: var(--boxWidth);
+    transition: 0.4s ease;
+}
+
+.box::before {
+    content: '';
+    background-color: #f9ca24;
+    position: absolute;
+    bottom: calc(-2*var(--boxBorderSize));
+    left: var(--boxBorderSize);
+    height: calc(2*var(--boxBorderSize));
+    width: 100%;
+    transform: skewx(45deg);
+}
+
+.box::after {
+    content: '';
+    background-color: #f6e58d;
+    position: absolute;
+    top: var(--boxBorderSize);
+    right: calc(-2*var(--boxBorderSize));
+    height: 100%;
+    width: calc(2*var(--boxBorderSize));
+    transform: skewY(45deg);
+}
