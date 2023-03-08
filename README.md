@@ -52,4 +52,7 @@ O objetivo é criar familiaridade com as tecnologias relacionadas. A maioria dos
 * Dia 39 - Password Strenght Background - Imagem borrada fica clara a medida que digita a senha.
 * Dia 40 - 3D Background Boxes - Uma animação é espacialmente dividida em caixas 3D.
 
+## Projetos 41 a 50
+* Dia 41 - Verify Account UI - Tela para inserção de código de verificação.
+
 ### Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
