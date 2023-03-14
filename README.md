@@ -58,5 +58,6 @@ O objetivo é criar familiaridade com as tecnologias relacionadas. A maioria dos
 * Dia 43 - Feedback UI - Um sistema de feedback de múltiplas escolhas.
 * Dia 44 - Custom Range Slider - Um slider que é possível de ser customizável.
 * Dia 45 - Netflix Navigation - Um menu que ficaria bonito no Netflix.
+* Dia 46 - Quiz App - Um aplicativo de Quiz, obviamente.
 
 ### Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
