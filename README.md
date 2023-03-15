@@ -1,6 +1,6 @@
 # 50 Projetos em 50 dias
 
-Em cada dia, é codificado (pelo menos) um mini projeto para aperfeiçoar as técnicas de html, css e javascript, para um total de 50 projetos realizados.
+São codificados 50 mini projetos para aperfeiçoar as técnicas de html, css e javascript, para um total de 50 projetos realizados.
 
 O objetivo é criar familiaridade com as tecnologias relacionadas. A maioria dos projetos baseia-se na idéia do uso de classes e propriedades css nos elementos html, utilizando o javascript para editar o contexto.
 
@@ -59,5 +59,6 @@ O objetivo é criar familiaridade com as tecnologias relacionadas. A maioria dos
 * Dia 44 - Custom Range Slider - Um slider que é possível de ser customizável.
 * Dia 45 - Netflix Navigation - Um menu que ficaria bonito no Netflix.
 * Dia 46 - Quiz App - Um aplicativo de Quiz, obviamente.
+* Dia 47 - Testimonial Box Switcher - Um Carrousel que alterna testemunhos.
 
 ### Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
