@@ -61,5 +61,7 @@ O objetivo é criar familiaridade com as tecnologias relacionadas. A maioria dos
 * Dia 46 - Quiz App - Um aplicativo de Quiz, obviamente.
 * Dia 47 - Testimonial Box Switcher - Um Carrousel que alterna testemunhos.
 * Dia 48 - Random Image Feed - Página mostra imagens em colunas, similar a um Feed.
+* Dia 49 - Todo List - Uma lista de tarefas.
+* Dia 50 - Insect Catch Game - Clique nos insetos para pegá-los.
 
 ### Projeto baseado no curso: https://www.udemy.com/course/50-projects-50-days/
